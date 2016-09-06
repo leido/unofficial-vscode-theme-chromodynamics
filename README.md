@@ -7,7 +7,7 @@ Original [chromodynamics](https://github.com/MagicStack/Chromodynamics) theme on
 
 Here is a preview with MagicPython extension installed.
 
-![Color Theme Preview](./preview.png)
+![Color Theme Preview](preview.png)
 
 You can install it from ext marketplace.
 
