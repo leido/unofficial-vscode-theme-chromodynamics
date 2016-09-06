@@ -7,7 +7,7 @@ Original [chromodynamics](https://github.com/MagicStack/Chromodynamics) theme on
 
 Here is a preview with MagicPython extension installed.
 
-![Color Theme Preview](preview.png)
+![Color Theme Preview](https://raw.githubusercontent.com/leido/vscode-theme-chromodynamics/master/images/preview.png)
 
 You can install it from ext marketplace.
 
