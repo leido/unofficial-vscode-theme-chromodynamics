@@ -9,10 +9,8 @@
         <dict>
             <key>settings</key>
             <dict>
-                <!--
                 <key>background</key>
                 <string>#060606</string>
-                -->
                 <key>caret</key>
                 <string>#dfdfdf</string>
                 <key>foreground</key>
@@ -22,7 +20,7 @@
                 <key>lineHighlight</key>
                 <string>#252525</string>
                 <key>selection</key>
-                <string>#444</string>
+                <string>#444444</string>
                 <key>findHighlight</key>
                 <string>#FFE792</string>
                 <key>findHighlightForeground</key>
@@ -493,6 +491,78 @@
                 <string>#44727B</string>
             </dict>
         </dict>
+
+        <!--Copy from Monokai-->
+        <dict>
+			<key>name</key>
+			<string>Markup Quote</string>
+			<key>scope</key>
+			<string>markup.quote</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F92672</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Lists</string>
+			<key>scope</key>
+			<string>markup.list</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#E6DB74</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Styling</string>
+			<key>scope</key>
+			<string>markup.bold, markup.italic</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#66D9EF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Inline</string>
+			<key>scope</key>
+			<string>markup.inline.raw</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#FD971F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Headings</string>
+			<key>scope</key>
+			<string>markup.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markup Setext Header</string>
+			<key>scope</key>
+			<string>markup.heading.setext</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#A6E22E</string>
+			</dict>
+		</dict>
     </array>
     <key>uuid</key>
     <string>72d2f21e-76c9-11e5-8275-000c6c071bb8</string>
