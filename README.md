@@ -9,6 +9,10 @@ You can install it from ext marketplace.
 
 Feel free to add comments or any issues at [github](https://github.com/leido/vscode-theme-chromodynamics) page:)
 
+Change Log:
+
+- 10.06, 2016 Fix selection color and change background color to original black thanks to Weilence.
+
 Here is a screenshot with **MagicPython** extension installed.
 
 ![Color Theme Preview](https://raw.githubusercontent.com/leido/vscode-theme-chromodynamics/master/images/preview.png)
