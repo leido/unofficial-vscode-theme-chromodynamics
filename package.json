@@ -2,7 +2,7 @@
     "name": "theme-chromodynamics",
     "displayName": "theme-chromodynamics",
     "description": "chromodynamics color theme for vscode",
-    "repository": "git@github.com:leido/vscode-theme-chromodynamics.git",
+    "repository": "git@github.com:leido/vscode-theme-chromodynamics",
     "icon": "images/icon.png",
     "version": "1.0.6",
     "publisher": "lei",
